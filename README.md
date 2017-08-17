@@ -13,7 +13,7 @@ Flask Website tutorial from https://pythonprogramming.net/
 * [letsencrypt](https://letsencrypt.org/) 
 
 ## path
-> app path: /var/www/FlaskApp
+> app path: /var/www/FlaskApp    
 > apache2 config path: /etc/apache2/sites-available/FlaskApp.conf
 
 ## install
