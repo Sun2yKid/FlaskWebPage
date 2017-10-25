@@ -18,7 +18,7 @@ Flask Website tutorial from https://pythonprogramming.net/
 > apache2 config path: /etc/apache2/sites-available/FlaskApp.conf
 
 ## install
-> apt-get install apache2 mysql-client mysql-erver  
+> apt-get install apache2 mysql-client mysql-server  
 
 > apt-get install libapache2-mod-wsgi    
 
