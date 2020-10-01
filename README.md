@@ -5,7 +5,7 @@ Flask Website tutorial from https://pythonprogramming.net/
 * unbuntu 16.04    
 * apache2
 * flask
-* python2.7.12
+* python2.7.12 or 3
 * mysql 
 * [WTForms](https://flask-wtf.readthedocs.io/en/stable/)(a build in forms module in Flask)
 * passlib (used for password encryption)
